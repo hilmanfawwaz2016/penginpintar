@@ -9,7 +9,7 @@ Misalkan mau edit modifikasi, bisa gunakan android studio atau phonegap online (
 
 yang nyambung ke server web sisfokol presensi qrcode : 
 
-http://192.168.1.100/sisfokol_presensiqrcode
+http://192.168.43.156/sisfokol_presensiqrcode
 
 
 
